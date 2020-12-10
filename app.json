@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "instagram-clone",
+    "slug": "instagram-clone",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/instagram-icon.png",
+    "splash": {
+      "image": "./assets/instagram-splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package":"com.ultr4ping.instagram_clone",
+      "versionCode":1,
+      
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
