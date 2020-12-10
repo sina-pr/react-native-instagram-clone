@@ -1,6 +1,6 @@
 # react-native-instagram-clone
 
-instagram clone with react ..
+instagram clone with react ...
 
 
 Home Screen:
@@ -9,7 +9,12 @@ Home Screen:
 
 Explore screen:
 
-
 ![Explore screen](https://github.com/sina-pr/react-native-instagram-clone/blob/main/screenShots/explore.png)
+
+Add screen:
+
 ![Add screen](https://github.com/sina-pr/react-native-instagram-clone/blob/main/screenShots/Add.png)
+
+Profile screen:
+
 ![Profile screen](https://github.com/sina-pr/react-native-instagram-clone/blob/main/screenShots/profile.png)
